@@ -4,7 +4,6 @@
   <img src="images/teaser.png" alt="Awesome Token Compression"/>
 </div>
 
-
 > Curated papers/code on token **pruning/merging/resampling/selection** for **MLLMs** (image / video / audio).  
 > Scope: training-free inference compression, projector/resampler design, ViT building-blocks used in MLLMs.
 
