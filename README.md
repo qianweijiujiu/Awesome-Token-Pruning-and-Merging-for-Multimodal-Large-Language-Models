@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaboration opportunities, please feel free to reach out:
 
-✉️ Email:  [wengshichao2@gmail.com](wengshichao2@gmail.com) / [zhouyuhua@zju.edu.cn](mailto:zhouyuhua@zju.edu.cn)
+✉️ Email:  [wengshichao2@gmail.com](wengshichao2@gmail.com) / [zhouyuhua@zju.edu.cn](mailto:zhouyuhua@zju.edu.cn) / [joeqian@aliyun.com](mailto:joeqian@aliyun.com)
 
 ## ✨ Star History
 
